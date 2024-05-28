@@ -4,6 +4,8 @@ Algorithm to Check if Words are Palindromes
 
 -Read Words from User  
 
+-Use a loop to collect words from the user
+
 -Convert ArrayList to Array  
 
 -Check Each Word for Palindrome  
