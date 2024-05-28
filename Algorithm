@@ -1,0 +1,13 @@
+Algorithm to Check if Words are Palindromes  
+
+-Initialize Scanner and ArrayList  
+
+-Read Words from User  
+
+-Convert ArrayList to Array  
+
+-Check Each Word for Palindrome  
+
+-Close the Scanner  
+
+ 
